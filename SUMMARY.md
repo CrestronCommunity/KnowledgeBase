@@ -31,3 +31,4 @@
 ## .NET
 
 * [Overview](dotnet/overview.md)
+* [Reusable Patterns](dotnet/patterns.md)
