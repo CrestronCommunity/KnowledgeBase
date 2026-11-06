@@ -11,6 +11,7 @@
 * [Tips & Tricks](simpl-sharp/tips-and-tricks.md)
   * [S#/S+ General Integration](simpl-sharp/notes.md)
     * [S#/S+ Events](simpl-sharp/events.md)
+* [SIMPL# Pro on .NET 6/8 — Lessons Learnt](simpl-sharp/simpl-sharp-pro-dotnet-lessons-learnt.md)
 
 ## SIMPL Windows
 
@@ -19,6 +20,7 @@
 ## Modern Web Applications for Touchpanels
 
 * [Tips & Tricks](modern-web-applications-for-touchpanels/tips-and-tricks.md)
+* [Lessons Learnt](modern-web-applications-for-touchpanels/lessons-learnt.md)
 
 ## Toolbox/SSH/Text Console
  
@@ -28,6 +30,16 @@
 
 * [Open-Source S#/S#Pro frameworks](links/open-source-s-s-pro-frameworks.md)
 
+## Modern Tools
+
+* [Lessons Learnt](modern-tools/lessons-learnt.md)
+
 ## .NET
 
 * [Overview](dotnet/overview.md)
+* [Reusable Patterns](dotnet/patterns.md)
+
+## 4-Series
+
+* [CP4 Deployment Gotchas](4-series/deployment-gotchas.md)
+* [4-Series Programming — Lessons Learnt](4-series/programming-lessons-learnt.md)
