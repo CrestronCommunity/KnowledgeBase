@@ -5,7 +5,7 @@ Cross-project reference for Crestron SimplSharpPro (.NET 8) control system patte
 ## Contents
 
 - [patterns.md](patterns.md) — main reference
-- [../4-series/deployment-gotchas.md](../4-series/deployment-gotchas.md) — CP4 deployment pitfalls (build, paths, SSH)
+- [../../4-series/deployment-gotchas.md](../../4-series/deployment-gotchas.md) — CP4 deployment pitfalls (build, paths, SSH)
 
 ## Quick Reference
 

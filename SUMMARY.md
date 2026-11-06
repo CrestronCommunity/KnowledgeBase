@@ -11,7 +11,7 @@
 * [Tips & Tricks](simpl-sharp/tips-and-tricks.md)
   * [S#/S+ General Integration](simpl-sharp/notes.md)
     * [S#/S+ Events](simpl-sharp/events.md)
-* [SIMPL# Pro on .NET 6/8 — Lessons Learnt](simpl-sharp/simpl-sharp-pro-dotnet-lessons-learnt.md)
+* [SIMPL# Pro on .NET 6/8 — Lessons Learnt](simpl-sharp/dotnet/simpl-sharp-pro-dotnet-lessons-learnt.md)
 
 ## SIMPL Windows
 
@@ -34,10 +34,10 @@
 
 * [Lessons Learnt](modern-tools/lessons-learnt.md)
 
-## .NET
+## SIMPL# Pro .NET
 
-* [Overview](dotnet/overview.md)
-* [Reusable Patterns](dotnet/patterns.md)
+* [Overview](simpl-sharp/dotnet/overview.md)
+* [Reusable Patterns](simpl-sharp/dotnet/patterns.md)
 
 ## 4-Series
 
