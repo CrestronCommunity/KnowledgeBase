@@ -31,3 +31,7 @@
 ## .NET
 
 * [Overview](dotnet/overview.md)
+
+## 4-Series
+
+* [CP4 Deployment Gotchas](4-series/deployment-gotchas.md)
