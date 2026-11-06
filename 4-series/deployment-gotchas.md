@@ -1,6 +1,6 @@
 # Crestron CP4 Deployment Gotchas
 
-> Distilled from debugging the `solventum` (Canteen) first deployment on a CP4.
+> Distilled from debugging a first deployment on a CP4.
 > Each item is a mistake made, diagnosed, and confirmed fixed before being recorded here.
 
 ---
@@ -54,7 +54,7 @@ Console path:   \simpl\app01\MyProject.Host.cpz
 
 **Symptom:** Program starts but immediately fails:
 ```
-System.ArgumentException: The directory name '/USER/Solventum/config' does not exist.
+System.ArgumentException: The directory name '/USER/MyApp/config' does not exist.
 ```
 or a `FileNotFoundException` on a config file that was definitely uploaded.
 
@@ -67,10 +67,10 @@ paths (and therefore what the application must use) are lowercase.
 in the application.
 
 ```
-SFTP creates:  /user/Solventum/config/
-               /user/Solventum/webroot/
-App must use:  /user/Solventum/config   ← match exactly
-               /user/Solventum/webroot
+SFTP creates:  /user/MyApp/config/
+               /user/MyApp/webroot/
+App must use:  /user/MyApp/config   ← match exactly
+               /user/MyApp/webroot
 ```
 
 If the application's default config path was written as `/USER/...`, correct it:
