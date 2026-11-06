@@ -19,6 +19,7 @@
 ## Modern Web Applications for Touchpanels
 
 * [Tips & Tricks](modern-web-applications-for-touchpanels/tips-and-tricks.md)
+* [Lessons Learnt](modern-web-applications-for-touchpanels/lessons-learnt.md)
 
 ## Toolbox/SSH/Text Console
  
