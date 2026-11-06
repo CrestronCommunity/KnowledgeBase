@@ -11,6 +11,7 @@
 * [Tips & Tricks](simpl-sharp/tips-and-tricks.md)
   * [S#/S+ General Integration](simpl-sharp/notes.md)
     * [S#/S+ Events](simpl-sharp/events.md)
+* [SIMPL# Pro on .NET 6/8 — Lessons Learnt](simpl-sharp/simpl-sharp-pro-dotnet-lessons-learnt.md)
 
 ## SIMPL Windows
 
